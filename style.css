@@ -1,0 +1,66 @@
+.university,.school{
+    font-weight: bold;
+    font-size: 14pt;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 14pt;
+}
+.desc{
+    font-size: 13pt;
+}
+
+.maincontainer {
+    width:100%;
+    height: 100%;
+  }
+
+.leftcolumn {
+    float: left;
+    display:inline-block;
+    width: 40%;
+    height: 100%;
+    background: #253238;
+}
+.contentwrapper {
+    float: left;
+    display:inline-block;
+    width: 58%;
+    margin-left: 2%;
+    height: 100%;
+    background-color: #fff;
+}
+
+img{
+    border-radius: 50%;
+    width: 50%;
+    margin: 1px auto;
+    display: block;
+}
+
+.data{
+    background-color: #36474f;
+    height: 100%;
+    color: #fff;
+    
+}
+
+.name,.job{
+    color: #fff;
+    text-align: center;
+}
+
+.mail{
+    color: #fff;
+}
+.mail:hover{
+    color: #fff;
+}
+
+a{
+    color: blue;
+}
+a:hover{
+    color: #0000c4;
+}
